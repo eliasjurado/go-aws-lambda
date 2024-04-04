@@ -27,5 +27,5 @@ go.work
 # End of https://www.toptal.com/developers/gitignore/api/go
 
 #others
-main
-main.zip
+bootstrap
+myFunction.zip
